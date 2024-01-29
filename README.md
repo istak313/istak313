@@ -1,78 +1,33 @@
-<!--
-- 👋 Hi, I’m @istak313
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
-istak313/istak313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
+
 --->
 
 
+<h1 align="center">Hi 👋Developers, I'm Istak</h1>
+<h3 align="center">A passionate Java developer from India.</h3>
 
-<!---
-# Hello, World! 👋
 
-I'm Istak, a budding Java developer passionate about turning lines of code into impactful solutions. 🚀
+<!--- 🔭 I’m currently learning ****--->
 
-## 🌱 About Me
-Recent graduate with a degree in MCA, I thrive on challenges and love to explore the endless possibilities of Java development.
+- 🎓 Recent graduate in MCA from Shivaji University.
+- 💬 Ask me about **JAVA**
 
-## 💻 Tech Stack
-- Java
-- [Any other relevant technologies you've worked with]
+- 📫 How to reach me **istakshaikh313@gmail.com**
 
-## 🚀 Goals
-Eager to contribute to exciting projects and continuously enhance my coding skills. Open to collaboration and always ready to learn.
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/istak-shaikh-b5aa7b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramani053" height="30" width="40" /></a>
+<a href="https://instagram.com/istak__ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="istak__ali" height="30" width="40" /></a>
+</p>
 
-## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-
-Let's code and create something amazing together! 🌈✨
---->
-
-<!---
-# Welcome to My Coding Playground! 🚀
-
-Hello there! I'm [Your Name], an enthusiastic and aspiring Java developer. 👋
-
-## About Me
-
-- 💡 Passionate about turning ideas into functional code.
-- 🎓 Recent graduate in [Your Degree/Field] from [Your University].
-- ☕ Java enthusiast eager to contribute to innovative projects.
-- 🌱 Always learning and exploring new technologies.
-
-## Skills
-
-- 🔧 Java | Spring Boot
-- 💻 HTML, CSS, JavaScript
-- 📚 Data Structures and Algorithms
-
-## Projects
-
-Here are some projects I've worked on:
-
-1. [Project 1](Link to Project 1)
-   - Brief description.
-
-2. [Project 2](Link to Project 2)
-   - Brief description.
-
-## Let's Connect!
-
-- 📫 Reach me at [Your Email Address]
-- 🔗 Connect on [LinkedIn](Your LinkedIn Profile Link)
-- 🐦 Follow me on [Twitter](Your Twitter Profile Link)
-- 🌐 Check out more about me on [Personal Portfolio](Your Portfolio Link)
-
-Feel free to explore my repositories and provide feedback. Let's code and create something amazing together! 🚀✨
-
---->
-<!---
-istak313/istak313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   </p>
